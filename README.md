@@ -40,14 +40,12 @@ Measures how restaurant preparation time influences average delivery time.
 - Delivery times are contributed across different delivery distance categories with slightly higher volumes in longer distance groups.
 
 ## 🧾 7. Dashboard Overview
-### Dashboard Overview
-![Dashboard Screenshot: Score Cards](dashboard_overview.png)
 This dashboard is to identify key drivers that impact delivery time. 
 It will help delivery managers focus on actions to reduce delivery time by addressing the most influential drivers.
-
+### Dashboard Overview
+![Dashboard Screenshot: Score Cards](dashboard_overview.png)
 ### Key Delivery Time Drivers
 ![Dashboard Screenshot: Key Charts](dashboard_key_charts.png)
-
 ### Interactive Filters
 ![Dashboard Screenshot: Filters](dashboard_filters.png)
 
