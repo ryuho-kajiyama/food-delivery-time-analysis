@@ -1,5 +1,19 @@
-## 📈 1. Project Overview
+## 📌 Food Delivery Time Analysis Dashboard
+Exploring internal, external, and logistic factors that impact delivery time using Python, SQL, and Looker Studio
 
+## 📈 1. Project Overview
+This project analyzes food delivery time data to identify the patterns associated with food delivery time.
+
+Using:\
+- **Python (Pandas)** for data exploration and cleaning
+- **SQL** for validating key drivers identified during EDA
+- **Looker Studio** for interactive visualization
+- **Kaggle Notebook** for code and documentation
+
+The goal is to answer kew questions related to food delivery time, such as:
+-  How do weather conditions impact average delivery time?  
+-  How does delivery distance affect delivery time?
+-  How are preparation times associated with overall delivery times?
 
 ## 📊 2. Dataset
 - **column**: 9
