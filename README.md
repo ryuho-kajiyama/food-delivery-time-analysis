@@ -49,13 +49,17 @@ It will help delivery managers focus on actions to reduce delivery time by addre
 
 ### Interactive Filters
 
+
 ## 💡 8. Key Insights
 - **Insight 1**: Weather conditions and traffic levels significantly increase average delivery time.
 - **Insight 2**: Average delivery time increases as the delivery distance becomes longer.
 - **Insight 3**: Longer preparation times are associated with higher overall delivery times.
 
 ## 🧰 9. Tools & Technologies
-
+- **Python**
+- **SQL**
+- **Google Looker Studio**
+- **GitHub Repositry**
 
 ## 🚀 10. Next Step
-
+- I plan to build a new project at the end of this year.
