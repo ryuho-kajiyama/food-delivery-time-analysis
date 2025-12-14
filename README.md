@@ -45,9 +45,9 @@ This dashboard is to identify key drivers that impact delivery time.
 It will help delivery managers focus on actions to reduce delivery time by addressing the most influential drivers.
 
 ### Key Delivery Time Drivers
-![Dashboard Screenshot: Score Cards]()
-![Dashboard Screenshot: Key Charts]()
-![Dashboard Screenshot: Filters]()
+![Dashboard Screenshot: Score Cards](dashboard_overview.png)
+![Dashboard Screenshot: Key Charts](dashboard_key_charts.png)
+![Dashboard Screenshot: Filters](dashboard_filters.png)
 
 ### Interactive Filters
 
