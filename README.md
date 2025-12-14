@@ -77,10 +77,9 @@ It helps delivery managers focus on actions to reduce delivery time by addressin
 - **Google Looker Studio**
 - **GitHub Repository**
 
-👨‍💻 *Created by: Ryuho Kajiyama
-📍 Netherlands | 📧 Kumagorou.ryuho@gmail.com | 🔗 [GitHub: https://github.com/ryuho-kajiyama / LinkedIn: https://www.linkedin.com/in/ryuho-kajiyama-979205362/]
 ## 🚀 10. Next Step
 - Build additional data analysis projects to further strengthen my portfolio.
 
-
+👨‍💻 *Created by: Ryuho Kajiyama
+📍 Netherlands | 📧 Kumagorou.ryuho@gmail.com | 🔗 [GitHub: https://github.com/ryuho-kajiyama / LinkedIn: https://www.linkedin.com/in/ryuho-kajiyama-979205362/]
 
