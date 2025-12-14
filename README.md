@@ -4,7 +4,7 @@ Exploring internal, external, and logistical factors that impact delivery time u
 ## 📈 1. Project Overview
 This project analyzes food delivery time data to identify patterns associated with delivery performance.
 
-Using:/
+Using: /
 - **Python (Pandas)** for data exploration and cleaning
 - **SQL** for validating key drivers identified during EDA
 - **Looker Studio** for interactive visualization
@@ -18,10 +18,10 @@ The goal is to answer key questions related to food delivery time, such as:
 ## 📊 2. Dataset
 - **Columns**: 9
 - **Rows**: 1,000
-- **Missing Values**:/
-**Weather**: 30 rows/
-**Traffic_Level**: 30 rows/
-**Time_of_Day**: 30 rows/
+- **Missing Values**: /
+**Weather**: 30 rows /
+**Traffic_Level**: 30 rows /
+**Time_of_Day**: 30 rows /
 **Courier_Experience_yrs**: 30 rows
 
 ## 🧹 3. Data cleaning
