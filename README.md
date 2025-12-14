@@ -34,7 +34,7 @@ Measures how restaurant preparation time influences average delivery time.
 
 ## 6. SQL Analysis
 ### Why SQL is used
-- To validate three key drivers
+- To validate three key drivers: Average delivery time by Weather, traffic, and delivery counts across different delivery distance categories.
 ### What this section validates
 - Weather conditions and traffic levels significantly increase average delivery time.
 - Delivery times are contributed across different delivery distance categories with slightly higher volumes in longer distance groups.
