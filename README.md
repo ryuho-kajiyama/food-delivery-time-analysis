@@ -1,3 +1,6 @@
+README Food delivery time
+
+
 ## 📌 Food Delivery Time Analysis Dashboard
 Exploring internal, external, and logistic factors that impact delivery time using Python, SQL, and Looker Studio
 
@@ -25,7 +28,7 @@ The goal is to answer kew questions related to food delivery time, such as:
 **Courier_Experience_yrs column**: 30 rows
 
 ## 🧹 3. Data cleaning
-- Filled missing numeric valuews with median and categorical valuews with "Unknown."
+- Filled missing numeric values with median and categorical values with "Unknown."
 - Converted data type in Courier_Experience_yrs into integer.
 
 ## 🔍 4. Exploratory Data Analysis
@@ -38,7 +41,7 @@ The goal is to answer kew questions related to food delivery time, such as:
 - **1. Delivery Time**:
 Measures the overall average delivery time across all orders.
 - **2. Delivery Time by Weather**:
-Measures how different weather conditions imapct average delivery time.
+Measures how different weather conditions impapct average delivery time.
 - **3. Delivery Time by Traffic Level**:
 Measures how traffic density affects average delivery time.
 - **4. Delivery Time by Distance**:
@@ -72,7 +75,10 @@ It will help delivery managers focus on actions to reduce delivery time by addre
 - **Python**
 - **SQL**
 - **Google Looker Studio**
-- **GitHub Repositry**
+- **GitHub Repository**
 
 ## 🚀 10. Next Step
 - I plan to build a new project at the end of this year.
+
+
+
