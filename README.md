@@ -59,10 +59,15 @@ Measures how restaurant preparation time influences average delivery time.
 This dashboard is designed to identify the key drivers that impact delivery time. 
 It helps delivery managers focus on actions to reduce delivery time by addressing the most influential drivers.
 ### Dashboard Overview
+**Executive Summary**<br/>
+Preparation Time has the strongest contorollable impact on delivery delays.
+**Recommendation:** Monitor and optimize restaurant preparation during peak hours.
 ![Dashboard Screenshot: Score Cards](images/dashboard_overview.png)
 ### Key Delivery Time Drivers
+Delivery time increases with worse weather, longer distance, adn longer preparation time.
 ![Dashboard Screenshot: Key Charts](images/dashboard_key_charts.png)
 ### Interactive Filters
+Users can filter delivery performance by traffic level to explore how conditions affect delivery time.
 ![Dashboard Screenshot: Filters](images/dashboard_filters.png)
 
 ## 💡 8. Key Insights
