@@ -1,5 +1,7 @@
+README Food delivery Analysis
+
 ## 📌 Food Delivery Time Analysis Dashboard
-Exploring internal, external, and logistical factors that impact delivery time using Python, SQL, and Looker Studio
+Exploring internal, external, and logistical factors that impact delivery time using Python, SQL, and Power BI
 
 ## 📈 1. Project Overview
 This project analyzes food delivery time data to identify patterns associated with delivery performance.
@@ -7,7 +9,7 @@ This project analyzes food delivery time data to identify patterns associated wi
 Using:<br/>
 - **Python (Pandas)** for data exploration and cleaning
 - **SQL** for validating key drivers identified during EDA
-- **Looker Studio** for interactive visualization
+- **Power BI** for interactive visualization
 - **Kaggle Notebook** for code and documentation
 
 The goal is to answer key questions related to food delivery time, such as:
@@ -50,21 +52,20 @@ Measures how restaurant preparation time influences average delivery time.
 
 ## 🔍 6. SQL Analysis
 ### Why SQL is used
-- To validate three key drivers: weather, traffic levels, and delivery counts across distance categories.
+- To validate key drivers identified during EDA, including weather, traffic levels, and delivery distance patterns.
 ### What this section validates
 - Weather conditions and traffic levels significantly increase average delivery time.
 - Delivery times are distributed across distance categories with slightly higher volumes in longer distance groups.
 
 ## 🧾 7. Dashboard Overview
-This dashboard is designed to identify the key drivers that impact delivery time. 
+This dashboard is designed to highlight the key drivers that impact delivery time and support operational decision–making. 
 It helps delivery managers focus on actions to reduce delivery time by addressing the most influential drivers.
-### Dashboard Overview
-**Executive Summary**<br/>
-Preparation Time has the strongest contorollable impact on delivery delays.
+### Executive Summary
+Preparation Time has the strongest controllable impact on delivery delays.
 **Recommendation:** Monitor and optimize restaurant preparation during peak hours.
 ![Dashboard Screenshot: Score Cards](images/dashboard_overview.png)
 ### Key Delivery Time Drivers
-Delivery time increases with worse weather, longer distance, adn longer preparation time.
+Delivery time increases with worse weather, higher traffic, longer distance, and longer preparation time.
 ![Dashboard Screenshot: Key Charts](images/dashboard_key_charts.png)
 ### Interactive Filters
 Users can filter delivery performance by traffic level to explore how conditions affect delivery time.
@@ -75,16 +76,17 @@ Users can filter delivery performance by traffic level to explore how conditions
 - **Insight 2**: Average delivery time increases as the delivery distance becomes longer.
 - **Insight 3**: Longer preparation times are associated with higher overall delivery times.
 
+### Business Impact
+By focusing on preparation time, delivery managers can reduce delays using an internal, controllable lever, rather than external factors such as weather or distance.
+
 ## 🧰 9. Tools & Technologies
 - **Python**
-- **SQLite**
 - **SQL**
-- **Google Looker Studio**
+- **Power BI**
 - **GitHub Repository**
 
 ## 🚀 10. Next Step
-- Build additional data analysis projects to further strengthen my portfolio.
+- Continue building end–to–end BI projects and expanding Power BI dashboards to strengthen my analytical and storytelling skills.
 
 👨‍💻 *Created by: Ryuho Kajiyama
 📍 Netherlands | 📧 Kumagorou.ryuho@gmail.com | 🔗 [GitHub: https://github.com/ryuho-kajiyama / LinkedIn: https://www.linkedin.com/in/ryuho-kajiyama-979205362/]
-
