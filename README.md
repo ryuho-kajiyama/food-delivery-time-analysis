@@ -63,13 +63,13 @@ It helps delivery managers focus on actions to reduce delivery time by addressin
 ### Executive Summary
 Preparation Time has the strongest controllable impact on delivery delays.
 **Recommendation:** Monitor and optimize restaurant preparation during peak hours.
-![Dashboard Screenshot: Score Cards](images/dashboard_overview.png)
+![Dashboard Screenshot: Score Cards](images/dashboard_overview_PowerBI.png)
 ### Key Delivery Time Drivers
 Delivery time increases with worse weather, higher traffic, longer distance, and longer preparation time.
-![Dashboard Screenshot: Key Charts](images/dashboard_key_charts.png)
+![Dashboard Screenshot: Key Charts](images/dashboard_key_charts_PowerBI.png)
 ### Interactive Filters
 Users can filter delivery performance by traffic level to explore how conditions affect delivery time.
-![Dashboard Screenshot: Filters](images/dashboard_filters.png)
+![Dashboard Screenshot: Filters](images/dashboard_filter_PowerBI.png)
 
 ## 💡 8. Key Insights
 - **Insight 1**: Weather conditions and traffic levels significantly increase average delivery time.
